@@ -26,3 +26,6 @@ Python · psutil · Docker SDK · threading · Discord API · vanilla JS/Canvas
 ## Run
 python3 sysmon_pro.py
 # Dashboard: http://localhost:9400
+
+## Documentation
+See [SYSMON_PRO.pdf](SYSMON_PRO.pdf) for annotated screenshots of every dashboard section running on a real Ubuntu Server.
